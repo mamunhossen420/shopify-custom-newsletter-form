@@ -1,1 +1,3 @@
 # shopify-custom-newsletter-form
+
+# use this form in everithing in shopify store also use it for footer...
